@@ -1,0 +1,15 @@
+{
+  "package": "AgentOS-C",
+  "version": "0.1.0",
+  "date": "2026-10-08",
+  "sha256": "b6dfeb8b3a67a0f0595f22c7ddf385523b037fb8743f48222a391b75bb6e1621",
+  "files": [
+    "README.md",
+    "QUICKSTART.md",
+    "LICENSE",
+    "MANIFEST.json",
+    "docs/AgentOS-C_設計・構築運用指示書_一般配布版.md",
+    "docs/AgentOS-C_設計・構築運用指示書_AI無課金ユーザー版.md"
+  ],
+  "privacy": "public-distribution-only; no personal KB"
+}

@@ -76,7 +76,7 @@ ZIPは主に次の用途で使います。
 
 最新版の紹介スライドはこちらです。
 
-[AgentOS-C Presentation v1.3（PowerPoint / speaker notes付き）](https://docs.google.com/presentation/d/1oOroO3_Ry_AyJMZlITOoG5Lpg6AH83t8/edit?usp=drivesdk&ouid=113662059676592340568&rtpof=true&sd=true)
+[AgentOS-C Presentation v1.3（PowerPoint / speaker notes付き）](https://docs.google.com/presentation/d/1oOroO3_Ry_AyJMZlITOoG5Lpg6AH83t8/edit?usp=sharing)
 
 ## AgentOS-Cの基本構造
 

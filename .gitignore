@@ -1,0 +1,41 @@
+# Private / local AgentOS-C data
+01_private/
+60_memory_backup/
+85_attachments/
+90_history/
+99_inbox/
+
+# Common private exports and snapshots
+*.zip
+*.7z
+*.tar
+*.tar.gz
+*.bak
+*.backup
+*_private.*
+*private*
+*memory_backup*
+
+# Secrets / local environment
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+secrets.*
+credentials.*
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Python / Node build noise
+__pycache__/
+*.py[cod]
+node_modules/
+dist/
+build/

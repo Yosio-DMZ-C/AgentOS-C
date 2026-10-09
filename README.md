@@ -36,6 +36,8 @@ AgentOS-Cを展開Workspaceとして保存し、必要なファイルだけを�
 
 **継続更新、別チャットからの読み戻し、Grok等の別AIからChatGPT無料版への移植、OneDrive等との直接同期は基本機能として保証しません。** 実際に読込・再生成できる環境だけで個別に検証する拡張機能です。AIの料金区分だけで動作を判断しません。
 
+[動作環境・実証済み／未検証の一覧](docs/COMPATIBILITY_STATUS.md)
+
 [ChatGPT Freeの公式ファイル対応・上限](https://help.openai.com/ja-jp/articles/8555545-uploading-files-and-audio-to-chatgpt) / [データ分析の対応形式](https://help.openai.com/ja-jp/articles/8437071-data-analysis-with-chatgpt)：無料版にもファイル入力機能はありますが、利用量の制限があります。**ZIPの生成・取込とダウンロードは別途実機検証が必要**であり、本プロジェクトが保証するものではありません。
 
 ## AgentOS-Cで解決したいこと

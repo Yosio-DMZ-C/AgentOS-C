@@ -40,6 +40,8 @@ AgentOS-Cを展開Workspaceとして保存し、必要なファイルだけを�
 
 [ChatGPT Freeの公式ファイル対応・上限](https://help.openai.com/ja-jp/articles/8555545-uploading-files-and-audio-to-chatgpt) / [データ分析の対応形式](https://help.openai.com/ja-jp/articles/8437071-data-analysis-with-chatgpt)：無料版にもファイル入力機能はありますが、利用量の制限があります。**ZIPの生成・取込とダウンロードは別途実機検証が必要**であり、本プロジェクトが保証するものではありません。
 
+開発調査や成果物作成の共通定石と進行スタイルは、[開発調査・止めないプロジェクト推進の共通標準](docs/PROJECT_EXECUTION_STANDARD.md)を参照してください。利用者の確認待ちを減らしつつ、未承認の外部操作は行わない設計です。
+
 ## AgentOS-Cで解決したいこと
 
 今のAIには、LLM、Memory、RAG、MCP、Cloud、Agents、Search、Automationなど、多くの部品があります。
